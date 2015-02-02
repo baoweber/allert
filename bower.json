@@ -1,0 +1,23 @@
+{
+  "name": "allert",
+  "version": "1.0.0",
+  "authors": [
+    "martin@baoweb.cz"
+  ],
+  "description": "Small JS library for simpler handling of alerts.",
+  "main": "dist/allert.min.js",
+  "keywords": [
+    "alert"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
